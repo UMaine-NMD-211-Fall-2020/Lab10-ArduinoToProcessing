@@ -42,10 +42,10 @@ By the end of this lab, you should understand how to get data from any of the Ar
 3. Setting up Processing Sketch for  Serial Communications
 - Explanation of how/ why potentiometer motion leads to motion on screen. Not just "because they are connected over serial port". Use more detail
 - Commented Code, Explanation of any problems you ran into while trying to set this up, Video Documentation of results. List what do you notice can be improved
+4. Improving Processing Sketch Communications
 - Explanation of how to make ball fit across screen properly. Explanation of how to reduce latency. Explanation of why it matters which device initiates data transfer. 
 - Commented Code, Explanation of any problems you ran into while trying to set this up, Video of your end result
 - In your own words, what is the general theory of what you learned with this lab? How would this apply to transferring data from a sensor to your final project for Mike (the game)? Speculate specifically for your controller. Is there anything else you need to know about controlling over serial port to feel confident in your project? Implementation of serial control with your project sensor is not necessary. Make sure to ask whatever relates to these questions. 
-4. Improving Processing Sketch Communications
 5. *Extra* Analog Pong
 - Commented Code
 - Video of working Example
