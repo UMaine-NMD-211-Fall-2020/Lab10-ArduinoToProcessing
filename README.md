@@ -1,4 +1,4 @@
-# Lab9-ArduinoToProcessing
+# Lab 10 - Arduino To Processing
 Follow along with tutorials that discuss how to hook an arduino sensor up to processing
 
 ## Goals
