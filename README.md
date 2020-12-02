@@ -51,4 +51,5 @@ By the end of this lab, you should understand how to get data from any of the Ar
 - Video of working Example
 - List of trials you ran into in process & how you fixed them, notes about what isn't working if it's not working properly 
 
-
+## Submit
+- [Elijah Story](https://github.com/ElijahStory/Lab10-Elijah-Story)
